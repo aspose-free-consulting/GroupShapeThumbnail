@@ -24,8 +24,6 @@ You need to clean and compile the project by resolving all dependencies. In the 
 **Executing the project**
 This project is a console based application that expects the source presentation and license file place along side EXE file. Obviously, you can set the path to source file and license file your self.
 
-![GitHub Logo](https://user-images.githubusercontent.com/3595481/99031834-111d3f80-2546-11eb-8db5-5cfc136297de.png)
-
 ## Interested in Aspose free consulting project?
 [If you are also interested in a free consulting project by Aspose team then please view details on this page](https://aspose-free-consulting.github.io/)
 
