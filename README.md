@@ -1,4 +1,4 @@
-# Grouping shapes inside slide and creating group shape thumbnail
+# Grouping shapes inside slide and creating shape thumbnail
 
 This sample project use Aspose.Slides for .NET to group the shapes together and create shape thumbnails
 
