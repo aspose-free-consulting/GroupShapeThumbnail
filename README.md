@@ -33,4 +33,4 @@ Also, you can keep in touch with the latest developments in [file format APIs of
 
 ## This free consluting project is based on the following issue:
 
-[Export multiple chart in slide as image](https://github.com/aspose-free-consulting/projects/issues/101)
+Export multiple chart in slide as image: github.com/aspose-free-consulting/projects/issues/101
